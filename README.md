@@ -33,3 +33,6 @@ git checkout -b  v1.0.2   v1.0.2
 
 git checkout -b version3
 git push -u origin version3
+
+增加rebase的操作
+git rebase master
